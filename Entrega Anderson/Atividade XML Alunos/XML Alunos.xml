@@ -1,0 +1,18 @@
+<alunos>
+    <aluno id="1">
+        <nome>João</nome>
+        <matricula>12345</matricula>
+        <idade>20</idade>
+        <notas>
+            <nota >8.5</nota>
+        </notas>
+    </aluno>
+    <aluno id="2">
+        <nome>Maria Souza</nome>
+        <matricula>67890</matricula>
+        <idade>22</idade>
+        <notas>
+            <nota>9.0</nota>
+        </notas>
+    </aluno>
+</alunos>
